@@ -23,7 +23,7 @@ def login_page():
 def load_model():
     model_path = "random_forest_model.joblib"  # Verify the correct path
     try:
-        model = joblib.load("C:\\Users\\patri\\Documents\\Financial Inclusion\\random_forest_model.joblib")
+        model = joblib.load("random_forest_model.joblib")
         st.success("Model loaded successfully!")
         return model
     except Exception as e:
