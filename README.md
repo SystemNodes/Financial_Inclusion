@@ -2,7 +2,7 @@
 
 *Task:*
 
-This task is a binary classification problem. I are provided with a dataset containing demographic information and financial service usage data for individuals in East Africa. The objective is to develop a machine learning model that can predict whether an individual is likely to have or use a bank account.
+Using a dataset containing demographic and financial service usage information for individuals in East Africa, the objective is to train a machine learning model to predict the likelihood of an individual having or using a bank account. The model will output a binary classification, indicating whether an individual is likely or unlikely to have/use a bank account.
 
 *Problem Statement:*
 
